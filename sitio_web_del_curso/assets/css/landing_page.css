@@ -1,19 +1,16 @@
 
 .icon-64 {
   width: 64px;
-<<<<<<< HEAD
   height: 64px;;
 }
 
 .icon-200 {
   width: 200px;
   height: 200px;
-=======
-  height: 64px;
 }
-
-.iconBook{
-  height: 200px;
-  width: 200px;
->>>>>>> anthony/master
+.imagen-carousel {
+  width: 100%;
+  margin: 0 auto;
+  object-fit: cover;
+  object-position: 100% 0;
 }
