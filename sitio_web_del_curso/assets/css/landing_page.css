@@ -14,3 +14,20 @@
   object-fit: cover;
   object-position: 100% 0;
 }
+
+@media (max-width: 576px) {
+
+  .gastronomia-container,
+  .vivero-container {
+    border-bottom: 2px solid #212529;
+  }
+
+}
+@media (min-width: 768px) {
+
+  .gastronomia-container,
+  .vivero-container {
+    border-right: 2px solid #212529;
+  }
+
+}
